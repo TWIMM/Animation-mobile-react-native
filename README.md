@@ -1,4 +1,3 @@
-# doc-Frontend
-doc Frontend
-Doctor scheduler front end
+# Animation template for react native
+
 Only tested on IOS for the moment
